@@ -1,0 +1,7 @@
+*.log
+*.bak
+*.area
+*.bit
+*.db
+*_td*.v
+*.bid
