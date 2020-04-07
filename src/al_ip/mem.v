@@ -34,7 +34,7 @@ module mem ( doa, addra, clka, rsta );
 				.IMPLEMENT("9K(FAST)"),
 				.DEBUGGABLE("NO"),
 				.PACKABLE("NO"),
-				.INIT_FILE("../batman_indexed.mif"),
+				.INIT_FILE("../../resources/batman_indexed.mif"),
 				.FILL_ALL("NONE"))
 			inst(
 				.dia({8{1'b0}}),

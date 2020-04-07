@@ -13,5 +13,4 @@ module data_out
 	assign G = (pixel == 8'h00) ? 8'hff : (pixel == 8'h01) ? 8'h00 : 8'h00;
 	assign B = (pixel == 8'h00) ? 8'hff : (pixel == 8'h01) ? 8'h00 : 8'h00;
 	
-
 endmodule

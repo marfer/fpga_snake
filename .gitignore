@@ -5,3 +5,5 @@
 *.db
 *_td*.v
 *.bid
+*.swp
+.tmp_*
